@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CoviTracker</string>
+    <string name="welcome_to_our_app">Welcome To Our App</string>
+    <string name="start">Start</string>
+    <string name="group_members">Group Members:</string>
+    <string name="covitracker_logo">CoviTracker Logo</string>
+    <string name="chaitali_patil_nseema_gondhalekar">Chaitali Patil\nSeema Gondhalekar</string>
+    <string name="name_of_guide">Name Of Guide:</string>
+</resources>
